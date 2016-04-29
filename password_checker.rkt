@@ -1,5 +1,4 @@
 #lang racket
-;GAMZE SEN 200201032
 ;run command (strongPassword '(gamze) '(1 2 3 + * A g 8 4 Y e f 9 3 /))
 
 (define strongPassword
